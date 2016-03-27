@@ -1,1 +1,1 @@
-# lrn4future
+# lrn4future, I am studying python as a beginner.
